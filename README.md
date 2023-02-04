@@ -2,6 +2,9 @@
 
 ## Description
 
+This is the first Challenge assigned to me by the Washington University Coding Boot Camp. The challenge was to take the premade html and css code for a company webpage, and refactor it; make the code cleaner and more organized, and to bring it up to accessibily standards, but without changing the appearance of how the webpage initially looked. These changes to the code make it easier for others to access and work with the code, make it better optimized for search engines to find the company's page, and help prevent the company from getting into any legal touble for having their page be difficult, or not possible, for people who have disabilities, such as blindness or color-blindness, to access and use the page.
+
+Through this project, I learned that it is important to use specific semantic html tags when applicable, that it is important to use alt tags on images and to be wary of what colors are used for text and backgrounds, and got some more practice in styling with css through some trial and error in the process of cleaning up and consolidating the stylesheet elements.
 
 ## Installation
 
