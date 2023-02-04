@@ -15,7 +15,10 @@ The navigation links at the top-right of the page will guide the user to the cor
 
 The following is the mock-up image provided for the project; you should notice that there is only a slight visual difference between my launched page, made to improve the contract between the text and background
    
-    ![Mock-up Week 1 Challenge image]](/assets/images/week1challengemockup.png)
+<img
+  src="/assets/images/week1challengemockup.png"
+  alt="Mock-up"
+  style="display: block; margin: 0 auto; max-width: 300px">
 
 ## Credits
 
