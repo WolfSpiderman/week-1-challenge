@@ -23,7 +23,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
-
+    /* Changed these from "header div" to ""nav" */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -55,7 +55,8 @@ p {
     width: 100%;
     margin-bottom: 25px;
 }
-
+/* Moved the image from here to the index file to add an
+  alt tag, and added the ".hero img" element here */
 .hero img {
     height: 800px;
     width: 100%;
@@ -94,7 +95,7 @@ p {
 /* .benefits {
     margin-bottom: 32px;
     color: #ffffff;
-}  Although consolidating this part messed up the margins between the different classes within the benefits class*/
+}  Consolidating this part messed up the margins between the different classes within the benefits class*/
 
 .benefit-lead {
     margin-bottom: 32px;
