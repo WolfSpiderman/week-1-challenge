@@ -12,7 +12,7 @@ N/A, it's a webpage.
 
 ## Usage
 
-The webpage can be found [here]()
+The webpage can be found [here](https://wolfspiderman.github.io/week-1-challenge/)
 
 The navigation links at the top-right of the page will guide the user to the corresponding sections of the page.
 
